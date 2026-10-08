@@ -24,3 +24,6 @@ No build command is required.
 ## Music
 - `music.wav` — original soft romantic instrumental, starts after tapping the start button.
 - Music can be paused/resumed with the 🎵 Music button.
+
+
+Audio: phir-kabhi.mp3 (provided by user) — starts when the surprise is opened.
